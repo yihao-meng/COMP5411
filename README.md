@@ -154,6 +154,12 @@ Run
 
 for the options.
 
+If you want to generate the same result of different rasterizers, you can run the following code as an example:
+```
+**luapp test-strokers.lua -test:yihao -stroker:mvpg output yihao/mpvg_1.svg**
+
+```
+
 There are also a few scripts inside the strokers/ directory.
 We used them to create the animations in the supplemental meterials.
 
