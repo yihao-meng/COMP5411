@@ -13,7 +13,7 @@ Lei Han 21068134 lhanao@connect.ust.hk
 All the file in the project/   directory, including
 
 ```
-README.md
+
 bezier.py
 dynamicTypography.py
 environment.yml
