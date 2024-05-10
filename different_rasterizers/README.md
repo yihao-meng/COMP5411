@@ -98,4 +98,3 @@ for the options.
 
 There are also a few scripts inside the strokers/ directory.
 We used them to create the animations in the supplemental meterials.
-# COMP5411
