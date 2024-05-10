@@ -10,9 +10,9 @@ Yihao Meng 20972376  ymengas@connect.ust.hk
 Lei Han 21068134 lhanao@connect.ust.hk
 
 # Code generate from scratch:
-All the file in the project/   directory
+All the file in the project/   directory, including
 
-
+```
 README.md
 bezier.py
 dynamicTypography.py
@@ -25,7 +25,7 @@ positional_encoding.py
 save_svg.py
 ttf.py
 utils.py
-
+```
 
 The implementation of the differentiable rasterizer part was referenced from https://github.com/BachiLi/diffvg. But we try different methods for realizing differential, the default code use Monte Carlo Sampling, while we try analytical prefiletering which is slower but more accurate.
 
